@@ -1,11 +1,12 @@
-# Gecko Web Backdoor Tool
+# Gecko Web Backdoor Tool 🛠️
 
 ![Gecko Shell](https://r00t-shell.com/wp-content/uploads/2025/02/Gecko-Shell.png)
 *Gecko-Shell - A Powerful Web Backdoor Tool for Penetration Testing and Security Bypass*
 
-### Default Password
+### Default Password: R00t
+```bash
 The default password for the application is **R00t**. Please ensure to change it immediately after installation to enhance security.
-
+```bash
 
 Gecko is an advanced web backdoor tool designed to bypass security measures, provide root access, and manage shells. It offers a wide range of features for users who need to exploit security weaknesses and gain full control over compromised servers.
 
